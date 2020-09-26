@@ -1,10 +1,9 @@
 # clustering-models
 EECS 731 Data Science | Project 3: Weekend movie trip
 
-Navigate to **notebooks > MovieRecommend.ipynb to view the Jupyter Notebook**
+Navigate to **notebooks > [MovieRecommend.ipynb](https://github.com/archanaramakrishnan/clustering-models/blob/master/notebooks/MovieRecommend.ipynb) to view the Jupyter Notebook**
 
 # Weekend movie trip
-------------
 
 Blockbuster or art film?
 1. Set up a data science project structure in a new git repository in your GitHub account
@@ -16,7 +15,6 @@ Blockbuster or art film?
 7. Commit your notebook, source code, visualizations and other supporting files to the git repository in GitHub
 
 # Project Organization
-------------
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -39,5 +37,15 @@ Blockbuster or art film?
 
 
 --------
+
+# Dataset Citation
+
+To acknowledge use of the dataset in publications, please cite the
+following paper:
+
+F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets:
+History and Context. ACM Transactions on Interactive Intelligent
+Systems (TiiS) 5, 4, Article 19 (December 2015), 19 pages.
+DOI=http://dx.doi.org/10.1145/2827872
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
